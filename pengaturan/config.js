@@ -5,7 +5,7 @@ const chalk = require('chalk')
 global.self = false //jadiin true klo gk mau fitur bot lu di pke sama org lain
 
 // setting
-global.ownername ="ZeeoneOfc"
+global.ownername ="Imboy"
 global.ownernumber = "6283809742883"
 global.botname = "Haruka-Bot"
 global.thumbnail = fs.readFileSync("./settings/Haruka.jpg") //sesuaikan dengan nama foto
